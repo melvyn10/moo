@@ -1,9 +1,8 @@
     /*
     ** Test 1 
-    ** add these lines
     */
        
-       
+    
        
        #outerbox {
             position: absolute;
@@ -27,18 +26,18 @@
             font-family: cursive;
         }
 
-        .time {
-            float: right;
-            font-family: cursive;
-        }
-
+        /*
+        ** test 2.2 taek out .time lines
+        */
 
 
         h1 {
             text-align: center;
             font-family: cursive;
         }
-
+/*
+** test 2.1 add these lines
+*/
         p {
             text-align: center;
             font-family: cursive;
